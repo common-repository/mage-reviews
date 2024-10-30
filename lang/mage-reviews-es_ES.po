@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mage Reviews 1.0.9\n"
+"POT-Creation-Date: 2014-01-26 19:52-0800\n"
+"PO-Revision-Date: 2014-03-03 21:10+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././cast/mage-cast.php:35
+msgid "Mage Reviews"
+msgstr "Reseñas Mage"
+
+#: .././cast/mage-cast.php:37
+msgid "Current Version"
+msgstr "Versión actual"
+
+#: .././cast/mage-cast.php:38
+msgid "Features in Future Updates:"
+msgstr "Características en futuras actualizaciones:"
+
+#: .././cast/mage-cast.php:40
+msgid "Additional BuddyPress & Member Features"
+msgstr "Características adicionales BuddyPress y Miembro"
+
+#: .././cast/mage-cast.php:41
+msgid "Mutli Criteria Rating Options"
+msgstr "Opciones de clasificación Multi Criterio"
+
+#: .././cast/mage-cast.php:42
+msgid "Custom Review Form Design & Display"
+msgstr "Diseño & Visualización Formulario personalizado de Reseña"
+
+#: .././cast/mage-cast.php:43
+msgid "Comment Rating Admin Features"
+msgstr "Características Administrador Clasificación de Comentarios"
+
+#: .././cast/mage-cast.php:44
+msgid "and Much More"
+msgstr "Y Mucho Más"
+
+#: .././cast/mage-cast.php:98
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#: .././cast/mage-cast.php:122
+msgid "Options Saved"
+msgstr "Opciones guardadas"
+
+#: .././cast/mage-cast.php:127
+msgid "Ratings"
+msgstr "Calificaciones"
+
+#: .././cast/mage-cast.php:128 .././core/mage-cast.php:378
+msgid "Settings"
+msgstr "Configuración"
+
+#: .././cast/mage-cast.php:130
+msgid "Attach to Post Types"
+msgstr "Adjuntar a Tipos de Publicación"
+
+#: .././cast/mage-cast.php:131
+msgid ""
+"Choose the post types with the comment form to add the rating option to."
+msgstr ""
+"Elegir los tipos de publicación con el formulario de comentarios para "
+"agregar la opción de calificación."
+
+#: .././cast/mage-cast.php:136
+msgid "Rating Average"
+msgstr "Calificación promedio"
+
+#: .././cast/mage-cast.php:137
+msgid ""
+"Choose to display the Rating average above or below the post, or to keep it "
+"hidden."
+msgstr ""
+"Elegir mostrar el promedio de puntuaciones por encima o por debajo de la "
+"publicación, o para mantenerlo oculto."
+
+#: .././cast/mage-cast.php:140 .././cast/mage-cast.php:147
+msgid "Hidden"
+msgstr "Oculto"
+
+#: .././cast/mage-cast.php:140
+msgid "Top"
+msgstr "Superior"
+
+#: .././cast/mage-cast.php:140
+msgid "Bottom"
+msgstr "Inferior"
+
+#: .././cast/mage-cast.php:143
+msgid "Author Rating"
+msgstr "Calificación del Autor"
+
+#: .././cast/mage-cast.php:144
+msgid "Display an Authors Rating above or below comment text, or not at all."
+msgstr ""
+"Mostrar Clasificacion de Autores por encima o por debajo del texto del "
+"comentario o nada en absoluto."
+
+#: .././cast/mage-cast.php:147
+msgid "Above Comment"
+msgstr "Comentario encima"
+
+#: .././cast/mage-cast.php:147
+msgid "Below Comment"
+msgstr "Comentario abajo"
+
+#: .././cast/mage-cast.php:150
+msgid "Empty Average Bar"
+msgstr "Vaciar barra de promedios"
+
+#: .././cast/mage-cast.php:151
+msgid "Choose to show rating average even if empty."
+msgstr "Elegir mostrar promedio de clasificación aunque esté vacío."
+
+#: .././cast/mage-cast.php:156
+msgid "Require Rating"
+msgstr "Requerir Clasificación"
+
+#: .././cast/mage-cast.php:157
+msgid "Require a rating before a comment can be submitted."
+msgstr ""
+"Requerir que se haga una calificación antes que un comentario pueda ser "
+"enviado."
+
+#: .././cast/mage-cast.php:162
+msgid "Strict Reviews"
+msgstr "Reseñas estrictas"
+
+#: .././cast/mage-cast.php:163
+msgid "Restrict each User to only 1 review submission per page."
+msgstr "Restringir a cada usuario a sólo 1 envío de reseña por página."
+
+#: .././cast/mage-cast.php:168
+msgid "Maximum Rating"
+msgstr "Calificación máxima"
+
+#: .././cast/mage-cast.php:169
+msgid "Choose the maximum rating that a user can rate content with."
+msgstr ""
+"Elige la calificación máxima con la que un usuario puede calificar el "
+"contenido."
+
+#: .././cast/mage-cast.php:175
+msgid "Rating Icon"
+msgstr "Icono Clasificación"
+
+#: .././cast/mage-cast.php:176
+msgid "The icon for each rating block before a user choose a rating."
+msgstr ""
+"El icono de cada bloque de calificación antes de que un usuario elija la "
+"puntuación."
+
+#: .././cast/mage-cast.php:181
+msgid "Rating Icon Hover"
+msgstr "Icono de clasificación"
+
+#: .././cast/mage-cast.php:182
+msgid "The icon that displays when a user hovers or chooses a rating."
+msgstr ""
+"El icono que se muestra cuando un usuario se desplaza o elige una puntuación."
+
+#: .././cast/mage-cast.php:186
+msgid "Help"
+msgstr "Ayuda"
+
+#: .././cast/mage-cast.php:188
+msgid "Installation"
+msgstr "Instalación"
+
+#: .././cast/mage-cast.php:189
+msgid ""
+"<p>Upon activation, simply select the post types you want to display the "
+"rating option on under <code>Settings</code>-><code>Attach To Post Types</"
+"code>.</p><p>Rating fields are added to the comment form, that has to "
+"already be in place on the post types chosen. To verify this, make sure the "
+"template tag <code>comment_form();</code> is placed in corresponding "
+"template files of your theme.</p>"
+msgstr ""
+"<p>Después de la activación, sólo tiene que seleccionar los tipos de "
+"publicación donde desea mostrar la opción de clasificación <code> "
+"Configuración </code>-> <code> </code>-> <code> djuntar para publicar Tipos "
+"de Publicación </code> </p><p> Campos de calificación se agregan al "
+"formulario de comentarios, que tiene que estar ya en los los tipos de "
+"correos elegidos. Para verificar esto, asegúrese de que la etiqueta de "
+"plantilla <code> comment_form (); </code> se coloca en los correspondientes "
+"archivos de plantilla de su tema </p>."
+
+#: .././cast/mage-cast.php:192
+msgid "Displaying Review Average"
+msgstr "Mostrando Promedio de Reseñas"
+
+#: .././cast/mage-cast.php:193
+msgid ""
+"You can display the rating average by using either of the methods below:"
+msgstr ""
+"Se puede visualizar la calificación media mediante uno de los siguientes "
+"métodos:"
+
+#: .././cast/mage-cast.php:194
+msgid ""
+"<strong>Shortcode:</strong> Display average reviews on chosen post types by "
+"adding [reviews] to your post content at a desired location."
+msgstr ""
+"<strong>Código corto: </strong> Pantalla del promedio de los tipos de "
+"publicación elegidas por la adición de [reseñas] al contenido de su "
+"publicación en un lugar deseado."
+
+#: .././cast/mage-cast.php:195
+msgid ""
+"<strong>Auto-Display:</strong> Activate this option in <code>Settings</code>-"
+"><code>Rating Average</code>."
+msgstr ""
+"<strong>Auto Mostrar </strong> Activar esta opción en <code>Configuración</"
+"code>-> <code> Calificación promedio </code>"
+
+#: .././cast/mage-cast.php:196
+msgid ""
+"<strong>Template Tag:</strong> Add <?php echo mage_get_review_average(); ?> "
+"in desired template file."
+msgstr ""
+"<strong> Etiqueta Plantilla: </strong> Añadir <php echo "
+"mage_get_review_average ();> en el archivo de plantilla deseado."
+
+#: .././cast/mage-cast.php:200
+msgid "Restricting User Review Count"
+msgstr "Restringir el conteo de Reseñas de Usuario"
+
+#: .././cast/mage-cast.php:201
+msgid ""
+"<p>You can enable the restricting of 1 Comment per User at <code>Settings</"
+"code>-><code>Strict Reviews</code>.</p><p>This option does not remove the "
+"comment form, but instead displays the error message \"You have already "
+"submitted a rating here\".</p><p>To <strong>Remove Comment Form</strong> "
+"completely if the user has already rated, you can replace <code>comment_form"
+"();</code> with <code>if (!mage_user_reviewed()) { comment_form(); }</code>."
+"</p>"
+msgstr ""
+"<p> puede habilitar la restricción de 1 comentario por Usuario a <code> "
+"Configuración </code>-.> <code> Restringir Reseñas </code> </p> Esta opción "
+"no elimina el formulario de comentarios, pero en su lugar se muestra el "
+"mensaje de error \"ya ha enviado una calificación aquí\" </p> Para <strong> "
+"Remover Formulario de Comentarios</strong> por completo si el usuario ya ha "
+"clasificado, puede reemplazar <code> comment_form ().; </code> con <code>if "
+"(!mage_user_reviewed()) { comment_form(); }</code>.</p>"
+
+#: .././cast/mage-cast.php:204
+msgid "Shortcode [recent_reviews] Parameters"
+msgstr "Parámetros shortcode [recent_reviews]"
+
+#: .././cast/mage-cast.php:208
+msgid "Parameter"
+msgstr "Parámetro"
+
+#: .././cast/mage-cast.php:209
+msgid "Type"
+msgstr "Tipo"
+
+#: .././cast/mage-cast.php:210
+msgid "Description"
+msgstr "Descripción"
+
+#: .././cast/mage-cast.php:211
+msgid "Default"
+msgstr "Predeterminado"
+
+#: .././cast/mage-cast.php:218
+msgid "The maximum amount of recent reviews to display."
+msgstr "La cantidad máxima de reseñas recientes para mostrar."
+
+#: .././cast/mage-cast.php:224
+msgid "The post type slug of the post type you want to feature reviews from."
+msgstr ""
+"El  tipo de slug del tipo de publicación del que desea ofrecer comentarios."
+
+#: .././cast/mage-cast.php:230
+msgid ""
+"The amount of characters you would like to display from the excerpt before "
+"appending <code>[...]</code>. Use <code>0</code> to disable excerpt."
+msgstr ""
+"La cantidad de caracteres que se desea mostrar en el extracto antes de "
+"añadir <code> [...] </code>. Utilice <code> 0 </code> para desactivar "
+"extracto."
+
+#: .././cast/mage-cast.php:236
+msgid ""
+"Size of the Author Avatar in <code>px</code>. Example: \"avatar\"=50 creates "
+"the avatar image in 50px width and 50px height. Use <code>0</code> to "
+"disable avatar."
+msgstr ""
+"Tamaño del Avatar del Autor en <code> px </code>. Ejemplo: \"Avatar\"=50 "
+"crea la imagen de avatar en 50px de ancho y  50px de altura. Utilice <code> "
+"0 </code> para desactivar el avatar."
+
+#: .././cast/mage-cast.php:242
+msgid "Additional CSS classes to add to the wrapper."
+msgstr "Clases adicionales de CSS para agregar a la envoltura."
+
+#: .././cast/mage-cast.php:243
+msgid "empty"
+msgstr "Vacío"
+
+#: .././cast/mage-cast.php:246
+msgid "Usage"
+msgstr "Uso"
+
+#: .././cast/mage-cast.php:251
+msgid "Support"
+msgstr "Soporte"
+
+#: .././cast/mage-cast.php:252
+#, php-format
+msgid ""
+"Please refer to <a href=\"%s\" target=\"_blank\">this article</a> and to <a "
+"href=\"%s\" target=\"_blank\">WordPress Support Forums</a> if you need help, "
+"find any bugs, have suggestions or would like help us with a rating."
+msgstr ""
+"Por favor consulte <a href=\"%s\" target=\"_blank\"> este artículo </a> y "
+"los <a href=\"%s\" target=\"_blank\"> Foros de ayuda WordPress </a> si usted "
+"necesita ayuda, encontrar algún error, tiene alguna sugerencia o si desea "
+"ayudarnos con una calificación."
+
+#: .././cast/mage-reviews.php:48
+msgid "The most recent approved reviews."
+msgstr "Las reseñas aprobadas más recientes."
+
+#: .././cast/mage-reviews.php:49
+msgid "Mage Recent Reviews"
+msgstr "Reseñas recientes Mage"
+
+#: .././cast/mage-reviews.php:71
+msgid "Recent Reviews"
+msgstr "Reseñas recientes"
+
+#: .././cast/mage-reviews.php:125
+msgid "All"
+msgstr "Todas"
+
+#: .././cast/mage-reviews.php:127
+msgid "Title"
+msgstr "Título"
+
+#: .././cast/mage-reviews.php:129
+msgid "Post Type"
+msgstr "Tipo Publicación"
+
+#: .././cast/mage-reviews.php:136
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: .././cast/mage-reviews.php:139
+msgid "Excerpt Length"
+msgstr "Longitud Extracto"
+
+#: .././cast/mage-reviews.php:140
+msgid "Set to 0 to Disable Excerpt."
+msgstr "Establecer en 0 para deshabilitar Extracto."
+
+#: .././cast/mage-reviews.php:142
+msgid "Avatar Size"
+msgstr "Tamaño Avatar"
+
+#: .././cast/mage-reviews.php:143
+msgid "Set to 0 to Disable Avatar."
+msgstr "Establecer en 0 para deshabilitar Avatar"
+
+#: .././cast/mage-reviews.php:273
+msgid "Comment Rating"
+msgstr "Calificación comentario"
+
+#: .././cast/mage-reviews.php:283 .././cast/mage-reviews.php:357
+msgid "Rating"
+msgstr "Clasificación"
+
+#: .././cast/mage-reviews.php:437
+msgid "Error: Please add your rating."
+msgstr "Por favor, añada su calificación."
+
+#: .././cast/mage-reviews.php:438
+msgid "Error: You have already submitted a rating here."
+msgstr "Error: Usted ya ha presentado una calificación aquí."
+
+#: .././core/mage-cast.php:82
+msgid "Use This Image"
+msgstr "Usar esta imagen"
+
+#: .././core/mage-cast.php:339
+msgid "Upload"
+msgstr "Subir"
+
+#: .././core/mage-cast.php:434
+msgid "Dashboard"
+msgstr "Tablero de Control"
+
+#: .././core/mage-cast.php:435
+msgid "Plugins"
+msgstr "Plugins"
